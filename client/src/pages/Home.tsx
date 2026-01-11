@@ -29,7 +29,7 @@ export default function Home() {
               </h1>
               
               <p className="text-lg sm:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-                Meet MindPal, your compassionate AI companion. 
+                Meet YouMatter, your compassionate AI companion. 
                 Talk freely, find resources, and prioritize your mental well-being in a judgment-free zone.
               </p>
               
@@ -88,7 +88,7 @@ export default function Home() {
                 {
                   icon: Sparkles,
                   title: "Smart Guidance",
-                  desc: "Powered by Google's Gemini, MindPal offers thoughtful responses and can guide you to professional help."
+                  desc: "Powered by Google's Gemini, YouMatter offers thoughtful responses and can guide you to professional help."
                 }
               ].map((feature, idx) => (
                 <div key={idx} className="p-8 rounded-3xl bg-secondary/30 hover:bg-secondary/50 transition-colors duration-300">

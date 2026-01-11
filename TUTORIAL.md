@@ -1,4 +1,4 @@
-# MindPal Project Tutorial
+# YouMatter Project Tutorial
 
 ## How to Run the App
 1.  **Start the App**: Click the green "Run" button at the top of the Replit editor.

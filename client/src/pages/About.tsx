@@ -18,7 +18,7 @@ export default function About() {
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent flex items-end p-8">
-              <h1 className="text-4xl font-bold text-white font-display">About MindPal</h1>
+              <h1 className="text-4xl font-bold text-white font-display">About YouMatter</h1>
             </div>
           </div>
 
@@ -32,7 +32,7 @@ export default function About() {
                 <h2 className="text-2xl font-bold">The Mission</h2>
               </div>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                MindPal was created with a simple yet powerful mission: to make mental health support accessible, stigma-free, and available 24/7. We understand that students face unique pressures, and sometimes, you just need someone (or something) to talk to without judgment.
+                YouMatter was created with a simple yet powerful mission: to make mental health support accessible, stigma-free, and available 24/7. We understand that students face unique pressures, and sometimes, you just need someone (or something) to talk to without judgment.
               </p>
             </section>
 
@@ -43,7 +43,7 @@ export default function About() {
                   <h3 className="font-bold text-lg">Innovation Project</h3>
                 </div>
                 <p className="text-muted-foreground">
-                  MindPal represents student innovation tackling real-world problems using cutting-edge technology.
+                  YouMatter represents student innovation tackling real-world problems using cutting-edge technology.
                 </p>
               </div>
 

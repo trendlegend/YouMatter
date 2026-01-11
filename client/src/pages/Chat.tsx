@@ -96,7 +96,7 @@ export default function Chat() {
               <div className="w-20 h-20 bg-secondary rounded-full flex items-center justify-center mb-6 text-primary animate-pulse">
                 <Bot className="w-10 h-10" />
               </div>
-              <h2 className="text-2xl font-bold mb-2">Welcome to MindPal</h2>
+              <h2 className="text-2xl font-bold mb-2">Welcome to YouMatter</h2>
               <p className="text-muted-foreground max-w-md mb-8">
                 I'm here to listen and support you. Start a new conversation to begin.
               </p>

@@ -10,7 +10,7 @@ export function Navigation() {
 
   const links = [
     { href: "/", label: "Home", icon: Home },
-    { href: "/chat", label: "MindPal Chat", icon: MessageCircle },
+    { href: "/chat", label: "YouMatter Chat", icon: MessageCircle },
     { href: "/resources", label: "Resources", icon: BookHeart },
     { href: "/about", label: "About", icon: Info },
   ];
@@ -24,10 +24,10 @@ export function Navigation() {
           <Link href="/">
             <div className="flex items-center gap-2 cursor-pointer group">
               <div className="w-8 h-8 rounded-xl bg-gradient-to-tr from-primary to-primary/60 flex items-center justify-center text-white font-bold group-hover:scale-105 transition-transform">
-                M
+                Y
               </div>
               <span className="font-display font-bold text-xl text-primary tracking-tight">
-                MindPal
+                YouMatter
               </span>
             </div>
           </Link>

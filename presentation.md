@@ -1,11 +1,11 @@
-# MindPal: Student Mental Health Chatbot
+# YouMatter: Student Mental Health Chatbot
 
 ## Problem Statement
 Students today face immense academic and social pressure, leading to rising rates of anxiety, depression, and burnout. However, seeking help is often hindered by stigma, lack of immediate availability of counselors, or simply not knowing where to turn. Students need a judgment-free, accessible, and immediate way to voice their concerns and find support.
 
 ## Solution
-**MindPal** is an AI-powered mental health companion designed specifically for students. Available 24/7, it offers a safe, private space to talk.
-- **Immediate Support**: Powered by Google Gemini, MindPal provides empathetic, real-time responses to help students navigate their feelings.
+**YouMatter** is an AI-powered mental health companion designed specifically for students. Available 24/7, it offers a safe, private space to talk.
+- **Immediate Support**: Powered by Google Gemini, YouMatter provides empathetic, real-time responses to help students navigate their feelings.
 - **Resource Connection**: Instantly connects students to critical campus and national mental health resources.
 - **Accessible & Private**: A stigma-free environment where students can seek help without fear.
 
