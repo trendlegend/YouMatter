@@ -20,10 +20,6 @@ export default function Home() {
               transition={{ duration: 0.6, ease: "easeOut" }}
               className="text-center lg:text-left z-10"
             >
-              <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white border border-border shadow-sm mb-6">
-                <Sparkles className="w-4 h-4 text-primary" />
-                <span className="text-sm font-medium text-muted-foreground">TechSprint Hackathon 2024</span>
-              </div>
               
               <h1 className="text-4xl sm:text-5xl lg:text-7xl font-display font-bold text-foreground mb-6 leading-[1.1]">
                 A safe space for <br/>

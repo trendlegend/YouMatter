@@ -40,10 +40,10 @@ export default function About() {
               <div className="p-6 rounded-2xl bg-secondary/30 border border-secondary/50">
                 <div className="flex items-center gap-3 mb-3">
                   <Code2 className="w-5 h-5 text-primary" />
-                  <h3 className="font-bold text-lg">TechSprint 2024</h3>
+                  <h3 className="font-bold text-lg">Innovation Project</h3>
                 </div>
                 <p className="text-muted-foreground">
-                  Developed for the TechSprint Hackathon, MindPal represents student innovation tackling real-world problems using cutting-edge technology.
+                  MindPal represents student innovation tackling real-world problems using cutting-edge technology.
                 </p>
               </div>
 
